@@ -1,0 +1,6 @@
+com\SpringBoot\RESTAPIs\service\StudentService.class
+com\SpringBoot\RESTAPIs\entity\Student.class
+com\SpringBoot\RESTAPIs\RestapIsApplication.class
+com\SpringBoot\RESTAPIs\controller\StudentController.class
+com\SpringBoot\RESTAPIs\repository\StudentRepository.class
+com\SpringBoot\RESTAPIs\dto\StudentDto.class
